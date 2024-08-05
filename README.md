@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RMcquade27
 - 👀 I’m interested in Cyber Security and the Outdoors
 - 🌱 I’m currently learning Cyber Security at the University of Colorado 
-- 💞️ I’m looking to collaborate on created webites/using GITHUB
+- 💞️ I’m looking to collaborate on building webites/using GITHUB
 - 📫 How to reach me via email @ Rmcquade27@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have a large amount of fun facts. 
